@@ -9,4 +9,6 @@ export class AppComponent {
   private var_one:string="angular";
   private var_two:number=100;
   private var_three:Date= new Date();
+  private var_four:Array<any>=[10,20,30,40,50];
+  private var_five:number=0.9;
 }
