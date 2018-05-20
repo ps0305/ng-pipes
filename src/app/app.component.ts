@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   private var_one:string="angular";
+  private var_two:number=100;
+  private var_three:Date= new Date();
 }
